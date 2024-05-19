@@ -200,10 +200,7 @@ h3{
 
 }
 
-.icon{
-    margin-left: -80px;
-    margin-top: 50px;
-}
+
 
 .icones{
 
@@ -229,6 +226,17 @@ h3{
         
 
     }
+    .btn-branco{
+        font-size: 13px;
+        
+    }
+     
+    
+   
+    
+    .icon{
+       margin: 20px 15px 60px ;
+    }
     
 
 }
@@ -242,6 +250,10 @@ h3{
     .btn-custon {
         margin: 10px 15px;
     } 
+    .btn-branco{
+        font-size: 13px;
+        
+    }
 
  }
 
@@ -254,6 +266,14 @@ h3{
     .btn-custon {
         margin: 10px 15px;
     } 
+  .icon{
+    margin-left: -22px;
+    margin-top: 35px;
+}
+.btn-branco{
+    font-size: 13px;
+    
+}
 
  }
 
@@ -266,6 +286,10 @@ h3{
     .btn-custon {
         margin: 10px 15px;
     } 
+    .icon{
+        margin-left: -80px;
+        margin-top: 50px;
+    }
  }
 
 /* Extra large devices (large desktops, 1200px and up)*/
@@ -276,5 +300,6 @@ h3{
     }
     .btn-custon {
         margin: 10px 15px;
-    } 
+    }
+    
 }
