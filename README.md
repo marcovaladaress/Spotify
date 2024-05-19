@@ -1,4 +1,7 @@
-#  Projeto de Recriação do Site da Spotify 
+![spotify](https://github.com/marcovaladaress/Spotify/assets/147932026/3c1bb921-9f22-4ceb-86c2-0918ed3c8fab)
+
+
+#  Projeto de Recriação do Site da Spotify                     https://marcovaladaress.github.io/Spotify/
 > em andamento ✅    
 >
 ### Bem-vindo ao repositório do projeto "Recriação do Site da Spotify". Este documento descreve detalhadamente o processo de desenvolvimento do site, explicando as tecnologias utilizadas, as etapas do desenvolvimento e os desafios enfrentados.
